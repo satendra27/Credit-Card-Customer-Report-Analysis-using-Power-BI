@@ -2,7 +2,7 @@
 # Credit Card Customer Report Analysis
 ### Overview
 
-![Dashboard Screenshot]("https://github.com/satendra27/Credit-Card-Customer-Report-Analysis-using-Power-BI/blob/264006753c0c3ff8c5d089648e68d336c731d7ce/Screenshot%202024-11-19%20225016.png")
+![image alt](https://github.com/satendra27/Credit-Card-Customer-Report-Analysis-using-Power-BI/blob/264006753c0c3ff8c5d089648e68d336c731d7ce/Screenshot%202024-11-19%20225016.png)
 
 The Credit Card Customer Report Analysis Dashboard is an interactive Power BI solution designed to provide insights into customer behaviors and trends. This project helps stakeholders understand customer segmentation, spending patterns, and key performance indicators (KPIs) to make data-driven decisions.
 
